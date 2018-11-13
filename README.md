@@ -6,3 +6,4 @@ with permission issues when trying to start your VM's back up. This tool helps s
 up by displaying a list of VM's on the current host machine, and adds permissions for the local
 machine account for the selected vm.
 
+![alt text](https://github.com/Degrader/FixVHDPermissions/blob/master/Fix%20VHD%20Permissions.png)
